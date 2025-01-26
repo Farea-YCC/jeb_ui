@@ -1,10 +1,24 @@
-jeb_ui
-jeb_ui is a foundational project for a mobile wallet application, designed as a replica of the Jaib Wallet app. This project is focused on creating an intuitive and aesthetically pleasing user interface that mirrors the Jaib Wallet app. It serves as a starting point for further development, including the integration of core functionalities, wallet management features, and security systems.
+# jeb_ui
 
-Features
-Modern UI Design: The design takes inspiration from the Jaib Wallet app, emphasizing user-friendly navigation and a clean, modern look.
-Starter Template: This project serves as a template to be expanded with additional features such as account management, transaction processing, and enhanced security options.
-Responsive Layout: The design is optimized for various screen sizes, ensuring a smooth experience on both phones and tablets.
-Technologies Used
-Flutter: The project is built using Flutter, offering cross-platform support for Android and iOS devices.
-Dart: The programming language used in Flutter to ensure high performance and scalability.
+`jeb_ui` is a starter project for a wallet app, designed as a copy of the **Jaib Wallet** app. This project focuses on replicating the visual and interactive design aspects of the Jaib Wallet, providing a clean and modern user interface layout. It is intended as a base for further development, including the integration of functionality, features, and wallet management systems.
+
+## Features
+
+- **Modern UI Design**: Inspired by the Jaib Wallet, focusing on user-friendly design and smooth navigation.
+- **Starter Template**: Ready to be expanded with functionality for account management, transactions, and security features.
+- **Responsive Layout**: Optimized for both phone and tablet screens.
+
+## Technologies Used
+
+- **Flutter**: The project is built using Flutter for cross-platform support on Android and iOS.
+- **Dart**: The programming language used in Flutter for high performance and ease of development.
+
+## Installation
+
+To get started with the project, clone the repository and run it locally:
+
+```bash
+git clone https://github.com/Farea-YCC/jeb_ui.git
+cd jeb_ui
+flutter pub get
+flutter run
